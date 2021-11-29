@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Codemotion](https://codemotion.ninja)
+- 🔭 I’m currently freelancing
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Angular Universal SSR/rehydrate improvements
 - 🤔 I’m looking for help with React & Angular
