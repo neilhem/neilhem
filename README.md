@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Verse
+- 🔭 I’m currently working at [Verse](https://github.com/art-technologies)
 - 🌱 I’m currently learning GraphQL
 - 🤔 I’m looking for help with React & Angular
 - 💬 Ask me about anything
